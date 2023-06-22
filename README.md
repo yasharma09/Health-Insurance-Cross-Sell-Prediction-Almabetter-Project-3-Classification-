@@ -17,4 +17,4 @@ Description - Unique ID for customer Male/Female Age of customer Customer has DL
 • NumPy for computationally efficient operations 
 • Scikit Learn for model training, model optimization, and metrics
 
-Project Architecture : Number of Days, Customer has been associated with the company Customer is interested or not • Pandas for data manipulation, aggregation • Matplotlib and Seaborn for visualization and behavior with respect to the target variable • NumPy for computationally efficient operations • Scikit Learn for model training, model optimization, and metrics calculation P baim way ⓇIIINI C rand Grass
+
